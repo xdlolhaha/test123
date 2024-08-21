@@ -1,0 +1,8 @@
+re
+discord.py
+requests
+json
+os
+asyncio
+random
+lyricsgenius
