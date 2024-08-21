@@ -1,7 +1,6 @@
 
 discord.py
 requests
-os
 asyncio
 random
 lyricsgenius
