@@ -1,0 +1,4 @@
+{
+  "banned_users": ["user1", "user2"],
+  "other_key": "some_value"
+}
